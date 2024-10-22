@@ -52,7 +52,7 @@ function rombo (DM,DN){
     return R = DM * DN/2
 }
 console.log('la funcion del rombo es:')
-console.log(rombo(4,2))
+console.log(rombo(4,7))
 
 //Funcion de area de circulo
 function circulo (pi,rd){
